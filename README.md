@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  a Fullstack Web Development student at Trybe!<br>I live in Concordia/SC - Brazil<br> <br>
+I live in Concordia/SC - Brazil<br> <br>
 
 
 ## 🌐 Socials:
